@@ -1,7 +1,5 @@
 # Car-Price-Prediction
 
-# Car Price Predictor
-
 This is a **Flask-based web application** that predicts the price of a car based on its features, such as the manufacturer, model, year, fuel type, and kilometers driven. The application uses a pre-trained **Linear Regression model** for predictions.
 
 ---
